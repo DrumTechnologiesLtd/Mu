@@ -1,0 +1,11 @@
+{
+    "name" : "ND-Mu",
+    "version" : "0.1.0",
+    "description" : "Mu is a Mustache based template engine for Node.js. Mu compiles mustache templates into an extremely fast executable function. The original Mu is at git://github.com/raycmorgan/Mu.git. This extension to Mu simply adds a command line wrapper.",
+    "license" :   {
+        "type" : "MIT",
+        "url" : "https://raw.github.com/NetDevLtd/Mu/master/LICENSE"
+    },
+    "repository" : "git@github.com:NetDevLtd/Mu.git",
+    "bin" : { "cliMu" : "./bin/cliMu" }
+}
